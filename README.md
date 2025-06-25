@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm PRIYADARSHINI S P!</h1>
-<h3 align="center">🎓 I'm a passionate final-year engineering student driven by creativity and purpose. 
-  📍 💻 Developer by curiosity | 👩‍💻 Love building meaningful projects with JavaScript, React, Node.js & MongoDB</h3>
+<h3 align="center">🎓 I'm a passionate final-year engineering student driven by creativity and purpose. </h3>
+ <h3 align="center"> 📍 💻 Developer by curiosity | 👩‍💻 Love building meaningful projects with JavaScript, React, Node.js & MongoDB</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyasp2804&label=Profile%20views&color=0e75b6&style=flat" alt="priyasp2804" /> </p>
 
